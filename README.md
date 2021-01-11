@@ -12,3 +12,9 @@ A project dedicated to create a personal mental health assistant so as to provid
 Firstly you have to pre-install Django into your local system  
 
 `pip install django`
+
+## IDE/TEXT-EDITOR
+
+[VS Code](https://code.visualstudio.com/download)
+[Sublime-Text3](https://www.sublimetext.com/3)
+[Atom](https://atom.io/)
