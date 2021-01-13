@@ -23,10 +23,10 @@ Firstly you have to install ***Django , Tensorflow , random , ntlk and numpy*** 
 > ### ***Write***
 >
 >`pip install django`
-> pip install tensorflow
-> pip install random
-> pip install ntlk
-> pip install numpy
+>`pip install tensorflow`
+>`pip install random`
+>`pip install ntlk`
+>`pip install numpy`
 =============================
 
 ### IDE/TEXT-EDITOR (Optional)
