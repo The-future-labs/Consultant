@@ -11,15 +11,22 @@ A project dedicated to create a personal mental health assistant so as to provid
 =============================
 
 ### Django
+### Tensorflow
+### random
+### ntlk
+### numpy
 
 =============================
 
-Firstly you have to install ***Django*** into your local system with the help of `cmd`, `Window Powershell`.  
+Firstly you have to install ***Django , Tensorflow , random , ntlk and numpy*** into your local system with the help of `cmd`, `Window Powershell`.  
 
 > ### ***Write***
 >
 >`pip install django`
-
+> pip install tensorflow
+> pip install random
+> pip install ntlk
+> pip install numpy
 =============================
 
 ### IDE/TEXT-EDITOR (Optional)
