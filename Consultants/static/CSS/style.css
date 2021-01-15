@@ -1,0 +1,49 @@
+.header {
+
+    height: 90vh;
+    width: 100%;
+    background: linear-gradient(to right, rgba(0,0,0,0.9), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80');
+    background-size: cover;
+    color: white;
+
+
+}
+.font{
+    font-size: 50px;
+    margin-bottom: 40px;
+    font-family: 'Playfair Display', serif;
+}
+.h-100 {
+    height: 100%;
+    width: 100%;
+}
+
+.size{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.btn {
+    border-radius: 10rem !important;
+    padding: 0.5rem 6.24rem !important;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.navbar-brand{
+    font-family: 'Fraunces', serif;
+}
+
+.navbar-nav {
+    padding-left: 20rem;
+    font-size: 20px;
+}
+
+.nav-item{
+    padding-left: 5rem;
+    font-family: 'Fraunces', serif;
+}
+
+.nav-item a:hover{
+    background-color: rgb(0, 0, 0);
+    transition-delay: 0.2s;
+    
+}
