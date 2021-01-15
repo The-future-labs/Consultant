@@ -1,0 +1,28 @@
+{"intents": [
+        {"tag": "greeting",
+         "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+         "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+         "context_set": ""
+        },
+        {"tag": "goodbye",
+         "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+         "responses": ["bye bye", "Talk to you later", "Goodbye!"],
+         "context_set": ""
+        },
+        {"tag": "age",
+         "patterns": ["how old", "what is your age", "how old are you", "age?"],
+         "responses": ["I am 999 years old!", "999 years young!"],
+         "context_set": ""
+        },
+        {"tag": "name",
+         "patterns": ["what is your name", "what should I call you", "whats your name?"],
+         "responses": ["You can call me Digi-Hung.", "I'm Digi-Hung!", "I'm Hung , Digi-Hung."],
+         "context_set": ""
+        },
+        {"tag": "test",
+         "patterns": ["I want to take the anxiety test" , "I want to give the test","test","How to give the test?","How ca I give the test?"],
+         "responses": ["You can check the test box by you side to give the test","Right next to me"],
+         "context_set"               
+        }
+   ]
+}
